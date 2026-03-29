@@ -11,5 +11,9 @@ Help explain complex analysis in simple language for different audiences.
 <br>
 <br>
 what you changed yourself:I changed the major from business analytics to information system.
+
+
 why you changed it:Because my major is ISAI not BAAI.
+
+
 one thing the assistant wrote that you did not want to keep as-is: (and clear thinking)
