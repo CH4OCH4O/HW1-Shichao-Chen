@@ -9,6 +9,11 @@ One area I care about is using AI in business and data analysis. I am interested
 - Help explain complex analysis in simple language for different audiences.
 
 
+
+
+
+
+
 Prompt:
 Create content for a file named assistant_draft.md with:
 - a short title
